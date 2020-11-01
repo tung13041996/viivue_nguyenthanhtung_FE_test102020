@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'R1';
+    src: url('../font/Roboto-Black.woff2') format('woff2'),
+        url('../font/Roboto-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'R2';
+    src: url('../font/Roboto-BlackItalic.woff2') format('woff2'),
+        url('../font/Roboto-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'R3';
+    src: url('../font/Roboto-Light.woff2') format('woff2'),
+        url('../font/Roboto-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'R4';
+    src: url('../font/Roboto-Bold.woff2') format('woff2'),
+        url('../font/Roboto-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+
+@font-face {
+    font-family: 'R5';
+    src: url('../font/Roboto-Medium.woff2') format('woff2'),
+        url('../font/Roboto-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: fallback;
+}
+
+
+@font-face {
+    font-family: 'R6';
+    src: url('../font/Roboto-Thin.woff2') format('woff2'),
+        url('../font/Roboto-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'R7';
+    src: url('../font/Roboto-Regular.woff2') format('woff2'),
+        url('../font/Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
