@@ -1,13 +1,3 @@
-const lstShowContentBtn = document.querySelectorAll('.active span');
-
-for (let btn of lstShowContentBtn){
-    btn.addEventListener('click', function(){
-        let textHide = this.parentNode.nextElementSibling;
-        textHide.classList.toggle('fade');
-    });
-}
-
-
 
 let hamBtn = document.querySelector('nav .ham-btn');
 let navMenu = document.getElementById('menu');
